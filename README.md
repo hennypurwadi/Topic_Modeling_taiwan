@@ -1,4 +1,4 @@
-To perform 3 separated tweets analysis from Twitter in particular area location (radius 30 km around London)
+To perform 3 separated tweets analysis from Twitter in particular area location (radius 50 km around Taipei)
 
 - Entity analysis to find 5 most active users. 
 - Entity analysis to find 5 most frequently used hashtags. 
@@ -8,27 +8,27 @@ To perform 3 separated tweets analysis from Twitter in particular area location 
 
 To install .yaml environment dependencies using conda powershell cmd: 
 
->(base) PS C:\Users\HENNY\Documents\PYTHON\DLBDSEDA02> conda env create -f DLBDSEDA02.yaml
+>(base) PS C:\Users\Public\PYTHON\DLBDSEDA02> conda env create -f DLBDSEDA02.yaml
 
 To activate .yaml environment : 
 
->(base) PS C:\Users\HENNY\Documents\PYTHON\DLBDSEDA02> conda activate DLBDSEDA02
+>(base) PS C:\Users\Public\PYTHON\DLBDSEDA02> conda activate DLBDSEDA02
 
 To add library and update .yaml environment : 
 
->(base) PS C:\Users\HENNY\Documents\PYTHON\DLBDSEDA02> conda env update -f DLBDSEDA02.yaml
+>(base) PS C:\Users\Public\PYTHON\DLBDSEDA02> conda env update -f DLBDSEDA02.yaml
 
 To deactivate .yaml environment : 
 
->(base) PS C:\Users\HENNY\Documents\PYTHON\DLBDSEDA02> conda deactivate
+>(base) PS C:\Users\Public\PYTHON\DLBDSEDA02> conda deactivate
 
 To Run jupyter notebook from cmd:
 
->(nlp_tweet_env) PS C:\Users\HENNY\Documents\PYTHON\DLBDSEDA02>jupyter notebook
+>(nlp_tweet_env) PS C:\Users\Public\PYTHON\DLBDSEDA02>jupyter notebook
 
 If it doesn't work:
 
->(nlp_tweet_env) PS C:\Users\HENNY\Documents\PYTHON\DLBDSEDA02>python -m notebook
+>(nlp_tweet_env) PS C:\Users\Public\PYTHON\DLBDSEDA02>python -m notebook
 
 To escape :
 >Ctrl + C
