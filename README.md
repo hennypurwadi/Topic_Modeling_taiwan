@@ -59,7 +59,7 @@ Installation from command prompt: #pip3 install snscrape.
  It contained Python libraries as virtual dependencies, such as NumPy, Scikit-learn, Pandas, NLTK.
  
 4. Retrieving twitter's data for username, hashtags, Retrieving twitter's data for username, hashtags, 
-tweets in location within 30 km radius from DowningStreet10 London.
+tweets in location within 50 km radius from Taipei, Taiwan.
 
 2. Perform data analysis:
 
